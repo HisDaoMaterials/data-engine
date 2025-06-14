@@ -1,2 +1,4 @@
-# kaggle-engine
-A data explorer and feature engineering library targeted towards kaggle datasets
+# data-engine
+A data explorer and feature engineering library. 
+
+Focused towards kaggle datasets
